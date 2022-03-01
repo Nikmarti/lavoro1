@@ -1,0 +1,295 @@
+.Sfondo
+{
+	background-image: url(img/night-mountain.png);
+	background-size:100% 787px;
+}
+
+.Menu
+{
+	width: 33%;
+	height: 14.76px;
+	padding-left: 33.21%;
+	padding-top: 24.39px;
+}
+
+.Homepage
+{
+	height: 14.66px;
+	padding-left: 0px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 18px;
+	text-decoration-line: underline;
+
+	color: #FFFFFF;
+}
+
+.Articoli
+{
+	width: 56px;
+	height: 14.66px;
+	padding-left: 13%;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 18px;
+	text-decoration-line: underline;
+
+	color: #FFFFFF;
+}
+
+.Commerce
+{
+	width: 83px;
+	height: 14.66px;
+	padding-left: 13%;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 18px;
+	text-decoration-line: underline;
+
+	color: #FFFFFF;
+}
+
+.Contatti
+{
+	width: 61px;
+	height: 14.66px;
+	padding-left: 13%;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 18px;
+	text-decoration-line: underline;
+
+	color: #FFFFFF;
+}
+
+
+
+.Inizio
+{
+	width: 47.31%;
+	height: 220px;
+	padding-left: 18.21%;
+	padding-top: 448px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	line-height: 110px;
+
+	color: #FFFFFF;
+}
+
+.Intro
+{
+	width: 63.57%;
+	height: 830px;
+	margin-left: 18.21%;
+	margin-top: 58px;
+
+}
+
+.Titolo
+{
+	width: 69.7%;
+	height: 124px;
+
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 54px;
+	line-height: 62px;
+
+	color: #464646;
+
+}
+
+.Immagine
+{
+	width: 80px;
+	height: 80px;
+}
+
+.Sottotitolo
+{
+	font-family: Crimson Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 24px;
+
+	color: #464646;
+}
+
+
+.Sea
+{
+	width: 890px;
+	height: 502px;
+	margin-top: 60px;
+
+}
+
+.Article_Content_Center
+{
+	width: 50.71%;
+	height: 843px;
+	margin-left: 24.5%;
+	margin-top: 45px;
+
+}
+
+.Paragrafo1
+{
+
+	height: 139.47px;
+
+
+	font-family: Crimson Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+
+	text-align: center;
+
+	color: #000000;
+
+
+}
+
+
+.Paragrafo2
+{
+	height: 111.57px;
+	margin-top: 20.66px;
+
+	font-family: Crimson Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+
+
+	text-align: center;
+
+	color: #000000;
+
+}
+
+.Elenco
+{
+	height: 474.19px;
+	margin-top: 20.66px;
+
+	font-family: Crimson Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+
+
+	text-align: center;
+
+	color: #000000;
+}
+
+
+.Finale
+{
+	height: 55.79px;
+	margin-top: 20.66px;
+
+	font-family: Crimson Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+
+
+	text-align: center;
+
+	color: #000000;
+
+}
+
+.Social
+{
+	width: 11%;
+	height: 70px;
+	margin-left: 44.93%;
+	margin-top: 90px;
+
+}
+
+.Share
+{
+	height: 27px;
+
+	font-family: Crimson Pro;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 22px;
+	line-height: 27px;
+
+	text-align: right;
+
+	color: #000000;
+
+}
+
+.Twitter
+{
+	padding-left: 23.94%;
+
+}
+
+.Instagram
+{
+	padding-left: 7.04%;
+}
+
+.Facebook
+{
+	padding-left: 7.04%;
+}
+
+.Footer
+{
+	width: 76.43%;
+	height: 36px;
+	margin-left: 11.79%;
+	margin-top: 56px;
+
+}
+
+
+.Credits
+{
+	width: 16.63%;
+	height: 18px;
+	padding-left: 41.68%;
+	padding-top: 18px;
+
+	font-family: Helvetica;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 18px;
+
+	color: #000000;
+
+}
